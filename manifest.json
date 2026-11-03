@@ -9,6 +9,11 @@
   "manual_body_text_included": false,
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 91,
+      "sha256": "d58dc4c3a440c8127fa329392754372b5fb6eb5b27a699ae34f28d4042098e32"
+    },
+    {
       "path": ".gitignore",
       "bytes": 53,
       "sha256": "68112ea0f8496240591bd5d578e74026c22ef9e54b161d9b417fdc8fc0d1001a"
