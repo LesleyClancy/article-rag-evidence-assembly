@@ -1,0 +1,553 @@
+{
+  "grid": [
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 18,
+      "empty": 0,
+      "mean_input_tokens": 3611.2083333333335,
+      "added_unit_occurrences": 0,
+      "lost_unit_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 15,
+      "empty": 0,
+      "mean_input_tokens": 3549.5833333333335,
+      "added_unit_occurrences": 189,
+      "lost_unit_occurrences": 91
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 14,
+      "empty": 4,
+      "mean_input_tokens": 2592.5416666666665,
+      "added_unit_occurrences": 125,
+      "lost_unit_occurrences": 102
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 17,
+      "empty": 0,
+      "mean_input_tokens": 2226.6666666666665,
+      "added_unit_occurrences": 11,
+      "lost_unit_occurrences": 66
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 19,
+      "empty": 0,
+      "mean_input_tokens": 3410.0833333333335,
+      "added_unit_occurrences": 6,
+      "lost_unit_occurrences": 20
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 20,
+      "empty": 0,
+      "mean_input_tokens": 7541.958333333333,
+      "added_unit_occurrences": 0,
+      "lost_unit_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 20,
+      "empty": 0,
+      "mean_input_tokens": 7597.916666666667,
+      "added_unit_occurrences": 272,
+      "lost_unit_occurrences": 187
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 19,
+      "empty": 0,
+      "mean_input_tokens": 6653.041666666667,
+      "added_unit_occurrences": 243,
+      "lost_unit_occurrences": 203
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 19,
+      "empty": 0,
+      "mean_input_tokens": 6834.791666666667,
+      "added_unit_occurrences": 48,
+      "lost_unit_occurrences": 123
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 20,
+      "empty": 0,
+      "mean_input_tokens": 7025.625,
+      "added_unit_occurrences": 19,
+      "lost_unit_occurrences": 67
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 21,
+      "empty": 0,
+      "mean_input_tokens": 11646.333333333334,
+      "added_unit_occurrences": 0,
+      "lost_unit_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 11588.541666666666,
+      "added_unit_occurrences": 434,
+      "lost_unit_occurrences": 302
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 10176.208333333334,
+      "added_unit_occurrences": 357,
+      "lost_unit_occurrences": 328
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 20,
+      "empty": 0,
+      "mean_input_tokens": 10878.333333333334,
+      "added_unit_occurrences": 77,
+      "lost_unit_occurrences": 196
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 21,
+      "empty": 0,
+      "mean_input_tokens": 11351.875,
+      "added_unit_occurrences": 38,
+      "lost_unit_occurrences": 97
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 22,
+      "empty": 0,
+      "mean_input_tokens": 15612.291666666666,
+      "added_unit_occurrences": 0,
+      "lost_unit_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 15636.041666666666,
+      "added_unit_occurrences": 601,
+      "lost_unit_occurrences": 393
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 14237.625,
+      "added_unit_occurrences": 529,
+      "lost_unit_occurrences": 412
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 21,
+      "empty": 0,
+      "mean_input_tokens": 14797.625,
+      "added_unit_occurrences": 108,
+      "lost_unit_occurrences": 264
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 14929.708333333334,
+      "added_unit_occurrences": 51,
+      "lost_unit_occurrences": 136
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 19316.791666666668,
+      "added_unit_occurrences": 0,
+      "lost_unit_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 19511.625,
+      "added_unit_occurrences": 826,
+      "lost_unit_occurrences": 481
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 17674.208333333332,
+      "added_unit_occurrences": 679,
+      "lost_unit_occurrences": 506
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 23,
+      "empty": 0,
+      "mean_input_tokens": 18162.75,
+      "added_unit_occurrences": 129,
+      "lost_unit_occurrences": 308
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 24,
+      "empty": 0,
+      "mean_input_tokens": 19563.166666666668,
+      "added_unit_occurrences": 70,
+      "lost_unit_occurrences": 117
+    }
+  ],
+  "paired": [
+    {
+      "cap": 4000,
+      "win": 6,
+      "loss": 2,
+      "tie": 16
+    },
+    {
+      "cap": 8000,
+      "win": 2,
+      "loss": 2,
+      "tie": 20
+    },
+    {
+      "cap": 12000,
+      "win": 0,
+      "loss": 2,
+      "tie": 22
+    },
+    {
+      "cap": 16000,
+      "win": 0,
+      "loss": 0,
+      "tie": 24
+    },
+    {
+      "cap": 20000,
+      "win": 1,
+      "loss": 0,
+      "tie": 23
+    }
+  ],
+  "v90": [
+    {
+      "id": "V90-N01",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 1,
+      "mechanical_delivery": true,
+      "pass": false
+    },
+    {
+      "id": "V90-N01",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 1,
+      "mechanical_delivery": false,
+      "pass": false
+    },
+    {
+      "id": "V90-N01",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N01",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N02",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N02",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N02",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N02",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N03",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N03",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N03",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N03",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 1,
+      "mechanical_delivery": false,
+      "pass": false
+    },
+    {
+      "id": "V90-N04",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N04",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N04",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "否",
+      "correctness": 1,
+      "input_support": 2,
+      "mechanical_delivery": false,
+      "pass": false
+    },
+    {
+      "id": "V90-N04",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N05",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N05",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N05",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N05",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N06",
+      "arm": "B1",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N06",
+      "arm": "B2",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N06",
+      "arm": "B1",
+      "cap": 4000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    },
+    {
+      "id": "V90-N06",
+      "arm": "B2",
+      "cap": 12000,
+      "core_completion": "是",
+      "correctness": 2,
+      "input_support": 2,
+      "mechanical_delivery": true,
+      "pass": true
+    }
+  ]
+}

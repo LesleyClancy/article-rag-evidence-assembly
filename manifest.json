@@ -1,0 +1,142 @@
+{
+  "version": "2",
+  "status": "prepared_for_public_repository",
+  "score_version": "final_2026-10-22_full_pilot_confirmation_plus_diagnostic_corrections",
+  "data_license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repository_identifier": null,
+  "answer_excerpts_included": false,
+  "manual_body_text_included": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 53,
+      "sha256": "68112ea0f8496240591bd5d578e74026c22ef9e54b161d9b417fdc8fc0d1001a"
+    },
+    {
+      "path": "AUDIT_NOTES.md",
+      "bytes": 2952,
+      "sha256": "bd2a5e6b22a4224ffacd0f10cff097a92071f7cf209040ee10eab4ebf1a8018b"
+    },
+    {
+      "path": "CASE_INDEX.json",
+      "bytes": 2017,
+      "sha256": "fa67a3e731cff4a38d6f6a6fbfc2ea28e4a2667bf75fe297cf1091da534f4cbb"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "bytes": 3894,
+      "sha256": "b94cabfa1485487f37c47dd20c324cb7394185e9e09d8e93566ce7d52f7b9a74"
+    },
+    {
+      "path": "DATA_LICENSE.md",
+      "bytes": 525,
+      "sha256": "0cca27108bf21601458df867d7b7b088bbe7b07284ecfe2f8b6ecd0f08efea2a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1089,
+      "sha256": "c2e7a9ba71fdc099109fdb7567cd30cecdee488c68f8ba3b55b7327983a186fa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5928,
+      "sha256": "fe49693c3865391205c643e1d7209fe3dca5fb4bc54dbf46397b436ef2c56cc6"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 6069,
+      "sha256": "efed9728d5a42b67127fb4cca506afadf49281ba2f3e923fb8905c5caa21475a"
+    },
+    {
+      "path": "code/audit_parameter_boundaries_v1.py",
+      "bytes": 3583,
+      "sha256": "df8c2d0940dfbb9a4280714a7690b983dc80c121de407d89fad834dd70abbc0e"
+    },
+    {
+      "path": "code/crosspage_parent_dev_v1.py",
+      "bytes": 5894,
+      "sha256": "85da5b839ff4228b78506d5e0a9eadd8b91832c2c33a9a798a48f74e5c146e83"
+    },
+    {
+      "path": "code/direct_controls.py",
+      "bytes": 7592,
+      "sha256": "71f932448f94ed3da854864ffae2672202a72951996d5ebe3e937d8a6b93a627"
+    },
+    {
+      "path": "code/parameter_packet_dev_v1_1.py",
+      "bytes": 9335,
+      "sha256": "1fff30a341116583111c3c2cf29c24ba6164b9c3c879918c6976ea3c115a9757"
+    },
+    {
+      "path": "code/provenance.json",
+      "bytes": 1377,
+      "sha256": "7c9e466eea8e0825e29ee9773f2dd13310b50a0e95d434f1058a0aaca4546af7"
+    },
+    {
+      "path": "code/v20_adapter_v1.py",
+      "bytes": 19491,
+      "sha256": "737a242bdb48741c07e95813ccbdf7c93d29693eebfb58c77b8b5540dd5c6355"
+    },
+    {
+      "path": "data/answer_identity_and_usage.json",
+      "bytes": 86097,
+      "sha256": "f780ca12a6ff4be2c3e48fb65452281648d573eb262b100a275ebaf8db5aed31"
+    },
+    {
+      "path": "data/figure_data.json",
+      "bytes": 12196,
+      "sha256": "293788adc2d17f69721597210b8e27ea355320fc9b8f19c242c3b57feda1c652"
+    },
+    {
+      "path": "data/listed_packages.json",
+      "bytes": 13505,
+      "sha256": "ebb8be718ed648af0e617e4d9081e61e71e5f7ccadba7896ccdc240715d83765"
+    },
+    {
+      "path": "data/original24_pair_identity.json",
+      "bytes": 3077,
+      "sha256": "f4c2dd0ea57b558adcc4d0857ffc61698210270fd5d63142f08cd8ce38abd487"
+    },
+    {
+      "path": "data/ratings.json",
+      "bytes": 221457,
+      "sha256": "3288fdcb7118c2d89b3bdd70f7e882b2e49cd24280c9d0df748bd1ab1f8c30a2"
+    },
+    {
+      "path": "data/v20_delivery.json",
+      "bytes": 889636,
+      "sha256": "ed109fffa170f7232ede43cef3be1fe424b77743bdc8583c046c6e0240a58393"
+    },
+    {
+      "path": "make_figures.py",
+      "bytes": 9369,
+      "sha256": "5c1501a81a2ff613d22113516ef472a7c415ae48e96f5d88874e70fdc343ef6f"
+    },
+    {
+      "path": "recompute.py",
+      "bytes": 6897,
+      "sha256": "52421f53f3b3354866b56c100651ab0d6f6ec6da6bb776f4bcc254986379b872"
+    },
+    {
+      "path": "recomputed_summary.json",
+      "bytes": 26675,
+      "sha256": "e2f00c16f0f3ae576e662a913e6f877a0319e01bb097a9ab4e2e3da2f6a1b5e3"
+    },
+    {
+      "path": "requirements-figures.txt",
+      "bytes": 34,
+      "sha256": "1868c02ab3e458c7eea5a82267d0cc3975978c52b25cb73f7f1438fe2a506263"
+    },
+    {
+      "path": "verify_figure_data.py",
+      "bytes": 1787,
+      "sha256": "2690b7ec84826c82487a958c5a5b77c9ea833aeae0d04d905dcd5b9136a6604e"
+    },
+    {
+      "path": "verify_package.py",
+      "bytes": 1061,
+      "sha256": "ec3fbc7adc1df156b1dbe5a7b2026710bfa03471d7544f001720ff7ce359a314"
+    }
+  ]
+}

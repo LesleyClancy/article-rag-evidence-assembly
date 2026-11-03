@@ -1,0 +1,1175 @@
+{
+  "score_summaries": [
+    {
+      "cohort": "acs_initial18",
+      "arm": "bm25",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 18,
+      "correctness_2": 18,
+      "support_2_as_recorded": 18
+    },
+    {
+      "cohort": "acs_initial18",
+      "arm": "dense",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 18,
+      "correctness_2": 17,
+      "support_2_as_recorded": 18
+    },
+    {
+      "cohort": "acs_initial18",
+      "arm": "hybrid",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 18,
+      "correctness_2": 17,
+      "support_2_as_recorded": 18
+    },
+    {
+      "cohort": "atv_initial12",
+      "arm": "bm25",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 9,
+      "support_2_as_recorded": 9
+    },
+    {
+      "cohort": "atv_initial12",
+      "arm": "dense",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 7,
+      "support_2_as_recorded": 8
+    },
+    {
+      "cohort": "atv_initial12",
+      "arm": "hybrid",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 9,
+      "support_2_as_recorded": 10
+    },
+    {
+      "cohort": "atv_new6",
+      "arm": "single",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 6,
+      "correctness_2": 5,
+      "support_2_as_recorded": 6
+    },
+    {
+      "cohort": "atv_selected3",
+      "arm": "baseline",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 1,
+      "support_2_as_recorded": 2
+    },
+    {
+      "cohort": "atv_selected3",
+      "arm": "structure",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 2,
+      "support_2_as_recorded": 2
+    },
+    {
+      "cohort": "atv_structure12",
+      "arm": "baseline",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 9,
+      "support_2_as_recorded": 10
+    },
+    {
+      "cohort": "atv_structure12",
+      "arm": "combined",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 11,
+      "support_2_as_recorded": 11
+    },
+    {
+      "cohort": "atv_structure12",
+      "arm": "structure",
+      "cap": 6000,
+      "repeat": null,
+      "logical_positions": 12,
+      "correctness_2": 12,
+      "support_2_as_recorded": 12
+    },
+    {
+      "cohort": "atv_v01_followup",
+      "arm": "single",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 1,
+      "correctness_2": 1,
+      "support_2_as_recorded": 1
+    },
+    {
+      "cohort": "v20_crosspage3",
+      "arm": "crosspage",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 3,
+      "support_2_as_recorded": 3,
+      "passes": 3,
+      "core_complete": 3
+    },
+    {
+      "cohort": "v20_crosspage3",
+      "arm": "original",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 2,
+      "support_2_as_recorded": 2,
+      "passes": 2,
+      "core_complete": 2
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B1",
+      "cap": 4000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 1,
+      "support_2_as_recorded": 2,
+      "passes": 1,
+      "core_complete": 1,
+      "mean_input_tokens_api": 2888.3333333333335
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B1",
+      "cap": 12000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 3,
+      "support_2_as_recorded": 3,
+      "passes": 3,
+      "core_complete": 3,
+      "mean_input_tokens_api": 11705.0
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B1A",
+      "cap": 4000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 1,
+      "support_2_as_recorded": 2,
+      "passes": 1,
+      "core_complete": 1,
+      "mean_input_tokens_api": 2888.3333333333335
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B1A",
+      "cap": 12000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 3,
+      "support_2_as_recorded": 3,
+      "passes": 3,
+      "core_complete": 3,
+      "mean_input_tokens_api": 11307.666666666666
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B2",
+      "cap": 4000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 2,
+      "support_2_as_recorded": 2,
+      "passes": 2,
+      "core_complete": 2,
+      "mean_input_tokens_api": 3349.0
+    },
+    {
+      "cohort": "v20_diagnostic",
+      "arm": "B2",
+      "cap": 12000,
+      "repeat": 1,
+      "logical_positions": 3,
+      "correctness_2": 2,
+      "support_2_as_recorded": 2,
+      "passes": 2,
+      "core_complete": 2,
+      "mean_input_tokens_api": 11610.666666666666
+    },
+    {
+      "cohort": "v20_new3",
+      "arm": "crosspage",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 3,
+      "support_2_as_recorded": 3,
+      "passes": 3,
+      "core_complete": 3
+    },
+    {
+      "cohort": "v20_new3",
+      "arm": "original",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 3,
+      "correctness_2": 2,
+      "support_2_as_recorded": 3,
+      "passes": 2,
+      "core_complete": 2
+    },
+    {
+      "cohort": "v20_original24",
+      "arm": "baseline",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 24,
+      "correctness_2": 23,
+      "support_2_as_recorded": 21,
+      "passes": 20,
+      "delivery_complete": 22
+    },
+    {
+      "cohort": "v20_original24",
+      "arm": "structure",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 24,
+      "correctness_2": 23,
+      "support_2_as_recorded": 21,
+      "passes": 20,
+      "delivery_complete": 22
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B1",
+      "cap": 16000,
+      "repeat": 1,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 5,
+      "passes": 5,
+      "core_complete": 6,
+      "mean_input_tokens_api": 15739.333333333334
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B1",
+      "cap": 16000,
+      "repeat": 2,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 15739.333333333334
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B1A",
+      "cap": 16000,
+      "repeat": 1,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 14853.0
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B1A",
+      "cap": 16000,
+      "repeat": 2,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 14853.0
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B2",
+      "cap": 16000,
+      "repeat": 1,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 15139.166666666666
+    },
+    {
+      "cohort": "v20_pilot",
+      "arm": "B2",
+      "cap": 16000,
+      "repeat": 2,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 15139.166666666666
+    },
+    {
+      "cohort": "v20_risk8",
+      "arm": "crosspage",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 8,
+      "correctness_2": 8,
+      "support_2_as_recorded": 8,
+      "passes": 8,
+      "core_complete": 8
+    },
+    {
+      "cohort": "v20_risk8",
+      "arm": "original",
+      "cap": 16000,
+      "repeat": null,
+      "logical_positions": 8,
+      "correctness_2": 8,
+      "support_2_as_recorded": 7,
+      "passes": 7,
+      "core_complete": 8
+    },
+    {
+      "cohort": "v90_final",
+      "arm": "B1",
+      "cap": 4000,
+      "repeat": null,
+      "logical_positions": 6,
+      "correctness_2": 5,
+      "support_2_as_recorded": 5,
+      "passes": 4,
+      "delivery_complete": 4,
+      "core_complete": 5,
+      "mean_input_tokens_api": 3268.3333333333335
+    },
+    {
+      "cohort": "v90_final",
+      "arm": "B1",
+      "cap": 12000,
+      "repeat": null,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 6,
+      "passes": 6,
+      "delivery_complete": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 11578.833333333334
+    },
+    {
+      "cohort": "v90_final",
+      "arm": "B2",
+      "cap": 4000,
+      "repeat": null,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 5,
+      "passes": 5,
+      "delivery_complete": 5,
+      "core_complete": 6,
+      "mean_input_tokens_api": 3284.3333333333335
+    },
+    {
+      "cohort": "v90_final",
+      "arm": "B2",
+      "cap": 12000,
+      "repeat": null,
+      "logical_positions": 6,
+      "correctness_2": 6,
+      "support_2_as_recorded": 5,
+      "passes": 5,
+      "delivery_complete": 6,
+      "core_complete": 6,
+      "mean_input_tokens_api": 11475.166666666666
+    }
+  ],
+  "delivery_grid": [
+    {
+      "cohort": "CF3",
+      "cap": 4000,
+      "arm": "B0",
+      "n": 3,
+      "complete": 0,
+      "missing_questions": [
+        "V20-CF01",
+        "V20-CF02",
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 3293.6666666666665,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "CF3",
+      "cap": 4000,
+      "arm": "B1",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 3001.6666666666665,
+      "added_occurrences": 3,
+      "lost_occurrences": 6
+    },
+    {
+      "cohort": "CF3",
+      "cap": 4000,
+      "arm": "B1A",
+      "n": 3,
+      "complete": 0,
+      "missing_questions": [
+        "V20-CF01",
+        "V20-CF02",
+        "V20-CF03"
+      ],
+      "empty": 3,
+      "mean_local_tokens": 348.3333333333333,
+      "added_occurrences": 0,
+      "lost_occurrences": 9
+    },
+    {
+      "cohort": "CF3",
+      "cap": 4000,
+      "arm": "B2",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 3270.0,
+      "added_occurrences": 3,
+      "lost_occurrences": 3
+    },
+    {
+      "cohort": "CF3",
+      "cap": 4000,
+      "arm": "BT",
+      "n": 3,
+      "complete": 0,
+      "missing_questions": [
+        "V20-CF01",
+        "V20-CF02",
+        "V20-CF03"
+      ],
+      "empty": 2,
+      "mean_local_tokens": 1456.6666666666667,
+      "added_occurrences": 1,
+      "lost_occurrences": 5
+    },
+    {
+      "cohort": "CF3",
+      "cap": 8000,
+      "arm": "B0",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 7542.666666666667,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "CF3",
+      "cap": 8000,
+      "arm": "B1",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 7490.666666666667,
+      "added_occurrences": 23,
+      "lost_occurrences": 19
+    },
+    {
+      "cohort": "CF3",
+      "cap": 8000,
+      "arm": "B1A",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 6861.0,
+      "added_occurrences": 17,
+      "lost_occurrences": 21
+    },
+    {
+      "cohort": "CF3",
+      "cap": 8000,
+      "arm": "B2",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 7195.333333333333,
+      "added_occurrences": 2,
+      "lost_occurrences": 3
+    },
+    {
+      "cohort": "CF3",
+      "cap": 8000,
+      "arm": "BT",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 7431.333333333333,
+      "added_occurrences": 7,
+      "lost_occurrences": 18
+    },
+    {
+      "cohort": "CF3",
+      "cap": 12000,
+      "arm": "B0",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 11668.666666666666,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "CF3",
+      "cap": 12000,
+      "arm": "B1",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 11361.0,
+      "added_occurrences": 62,
+      "lost_occurrences": 37
+    },
+    {
+      "cohort": "CF3",
+      "cap": 12000,
+      "arm": "B1A",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 11361.0,
+      "added_occurrences": 62,
+      "lost_occurrences": 37
+    },
+    {
+      "cohort": "CF3",
+      "cap": 12000,
+      "arm": "B2",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 11293.0,
+      "added_occurrences": 5,
+      "lost_occurrences": 8
+    },
+    {
+      "cohort": "CF3",
+      "cap": 12000,
+      "arm": "BT",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 10878.333333333334,
+      "added_occurrences": 11,
+      "lost_occurrences": 22
+    },
+    {
+      "cohort": "CF3",
+      "cap": 16000,
+      "arm": "B0",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 15401.666666666666,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "CF3",
+      "cap": 16000,
+      "arm": "B1",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 15605.0,
+      "added_occurrences": 70,
+      "lost_occurrences": 43
+    },
+    {
+      "cohort": "CF3",
+      "cap": 16000,
+      "arm": "B1A",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 15148.666666666666,
+      "added_occurrences": 67,
+      "lost_occurrences": 45
+    },
+    {
+      "cohort": "CF3",
+      "cap": 16000,
+      "arm": "B2",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 15345.333333333334,
+      "added_occurrences": 5,
+      "lost_occurrences": 5
+    },
+    {
+      "cohort": "CF3",
+      "cap": 16000,
+      "arm": "BT",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 15508.666666666666,
+      "added_occurrences": 16,
+      "lost_occurrences": 23
+    },
+    {
+      "cohort": "CF3",
+      "cap": 20000,
+      "arm": "B0",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 19004.333333333332,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "CF3",
+      "cap": 20000,
+      "arm": "B1",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 19823.0,
+      "added_occurrences": 94,
+      "lost_occurrences": 51
+    },
+    {
+      "cohort": "CF3",
+      "cap": 20000,
+      "arm": "B1A",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 17940.0,
+      "added_occurrences": 75,
+      "lost_occurrences": 54
+    },
+    {
+      "cohort": "CF3",
+      "cap": 20000,
+      "arm": "B2",
+      "n": 3,
+      "complete": 3,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 18490.333333333332,
+      "added_occurrences": 8,
+      "lost_occurrences": 12
+    },
+    {
+      "cohort": "CF3",
+      "cap": 20000,
+      "arm": "BT",
+      "n": 3,
+      "complete": 2,
+      "missing_questions": [
+        "V20-CF03"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 19386.0,
+      "added_occurrences": 19,
+      "lost_occurrences": 25
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 18,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11",
+        "V20-Q17",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 3611.2083333333335,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 15,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q08",
+        "V20-Q16",
+        "V20-Q17",
+        "V20-Q18",
+        "V20-Q19",
+        "V20-Q23",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 3549.5833333333335,
+      "added_occurrences": 189,
+      "lost_occurrences": 91
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 14,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q08",
+        "V20-Q11",
+        "V20-Q16",
+        "V20-Q17",
+        "V20-Q18",
+        "V20-Q19",
+        "V20-Q23",
+        "V20-Q24"
+      ],
+      "empty": 4,
+      "mean_local_tokens": 2592.5416666666665,
+      "added_occurrences": 125,
+      "lost_occurrences": 102
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 19,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11",
+        "V20-Q17"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 3410.0833333333335,
+      "added_occurrences": 6,
+      "lost_occurrences": 20
+    },
+    {
+      "cohort": "Q24",
+      "cap": 4000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 17,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q08",
+        "V20-Q11",
+        "V20-Q16",
+        "V20-Q17"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 2226.6666666666665,
+      "added_occurrences": 11,
+      "lost_occurrences": 66
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 20,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 7541.958333333333,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 20,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q17",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 7597.916666666667,
+      "added_occurrences": 272,
+      "lost_occurrences": 187
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 19,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q16",
+        "V20-Q17",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 6653.041666666667,
+      "added_occurrences": 243,
+      "lost_occurrences": 203
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 20,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 7025.625,
+      "added_occurrences": 19,
+      "lost_occurrences": 67
+    },
+    {
+      "cohort": "Q24",
+      "cap": 8000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 19,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11",
+        "V20-Q17"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 6834.791666666667,
+      "added_occurrences": 48,
+      "lost_occurrences": 123
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 21,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 11646.333333333334,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 11588.541666666666,
+      "added_occurrences": 434,
+      "lost_occurrences": 302
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 10176.208333333334,
+      "added_occurrences": 357,
+      "lost_occurrences": 328
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 21,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 11351.875,
+      "added_occurrences": 38,
+      "lost_occurrences": 97
+    },
+    {
+      "cohort": "Q24",
+      "cap": 12000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 20,
+      "missing_questions": [
+        "V20-Q01",
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 10878.333333333334,
+      "added_occurrences": 77,
+      "lost_occurrences": 196
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 22,
+      "missing_questions": [
+        "V20-Q04",
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 15612.291666666666,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 15636.041666666666,
+      "added_occurrences": 601,
+      "lost_occurrences": 393
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 14237.625,
+      "added_occurrences": 529,
+      "lost_occurrences": 412
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 14929.708333333334,
+      "added_occurrences": 51,
+      "lost_occurrences": 136
+    },
+    {
+      "cohort": "Q24",
+      "cap": 16000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 21,
+      "missing_questions": [
+        "V20-Q02",
+        "V20-Q04",
+        "V20-Q11"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 14797.625,
+      "added_occurrences": 108,
+      "lost_occurrences": 264
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B0",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q24"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 19316.791666666668,
+      "added_occurrences": 0,
+      "lost_occurrences": 0
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B1",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 19511.625,
+      "added_occurrences": 826,
+      "lost_occurrences": 481
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B1A",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 17674.208333333332,
+      "added_occurrences": 679,
+      "lost_occurrences": 506
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "B2",
+      "n": 24,
+      "complete": 24,
+      "missing_questions": [],
+      "empty": 0,
+      "mean_local_tokens": 19563.166666666668,
+      "added_occurrences": 70,
+      "lost_occurrences": 117
+    },
+    {
+      "cohort": "Q24",
+      "cap": 20000,
+      "arm": "BT",
+      "n": 24,
+      "complete": 23,
+      "missing_questions": [
+        "V20-Q04"
+      ],
+      "empty": 0,
+      "mean_local_tokens": 18162.75,
+      "added_occurrences": 129,
+      "lost_occurrences": 308
+    }
+  ],
+  "original24_partitions": [
+    {
+      "identical_request": true,
+      "n": 8,
+      "baseline_pass": 6,
+      "structure_pass": 6,
+      "discordant": 0
+    },
+    {
+      "identical_request": false,
+      "n": 16,
+      "baseline_pass": 14,
+      "structure_pass": 14,
+      "discordant": 2
+    }
+  ],
+  "table6_mean_API_input_tokens": {
+    "B1": 15739.3,
+    "B1A": 14853.0,
+    "B2": 15139.2
+  },
+  "diagnostic_corrected_support_rows": 4,
+  "pilot_confirmed_support_rows": 36,
+  "pilot_corrected_support_rows": 1,
+  "pilot_support_2_final": 35,
+  "pilot_supported_completion_final": 35,
+  "diagnostic_support_2_final": 14,
+  "diagnostic_support_1_final": 4,
+  "diagnostic_positions": 18,
+  "corrected_rows_endpoints_unchanged": true,
+  "scope": "Recorded-score arithmetic and listed-ID delivery only; not independent semantic validation"
+}

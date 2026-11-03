@@ -1,0 +1,32 @@
+[
+  {
+    "file": "v20_adapter_v1.py",
+    "source_sha256": "737a242bdb48741c07e95813ccbdf7c93d29693eebfb58c77b8b5540dd5c6355",
+    "export_sha256": "737a242bdb48741c07e95813ccbdf7c93d29693eebfb58c77b8b5540dd5c6355",
+    "change": "byte_identical"
+  },
+  {
+    "file": "parameter_packet_dev_v1_1.py",
+    "source_sha256": "1fff30a341116583111c3c2cf29c24ba6164b9c3c879918c6976ea3c115a9757",
+    "export_sha256": "1fff30a341116583111c3c2cf29c24ba6164b9c3c879918c6976ea3c115a9757",
+    "change": "byte_identical"
+  },
+  {
+    "file": "crosspage_parent_dev_v1.py",
+    "source_sha256": "85da5b839ff4228b78506d5e0a9eadd8b91832c2c33a9a798a48f74e5c146e83",
+    "export_sha256": "85da5b839ff4228b78506d5e0a9eadd8b91832c2c33a9a798a48f74e5c146e83",
+    "change": "byte_identical"
+  },
+  {
+    "file": "direct_controls.py",
+    "source_sha256": "71f932448f94ed3da854864ffae2672202a72951996d5ebe3e937d8a6b93a627",
+    "export_sha256": "71f932448f94ed3da854864ffae2672202a72951996d5ebe3e937d8a6b93a627",
+    "change": "byte_identical"
+  },
+  {
+    "file": "audit_parameter_boundaries_v1.py",
+    "source_sha256": "1f5d03a5ab9468f9415ed25fcd764e08f3d37f7d58fc359e47b1c9b0dc7c4237",
+    "export_sha256": "df8c2d0940dfbb9a4280714a7690b983dc80c121de407d89fad834dd70abbc0e",
+    "change": "unchanged helper AST; removed archive IO, imports and legacy main"
+  }
+]

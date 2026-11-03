@@ -1,0 +1,312 @@
+[
+  {
+    "name": "first_page_and_source_order",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "last_page_no_wrap",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "missing_page_not_skipped",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "repeated_trigger_parent_once",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "neighbor_sequence_equal_atomic",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "anchor_page_other_unit_not_added",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "generic_window_no_semantic_filter",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "generic_two_sided_tables",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "no_recursive_chaining",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "null_column_position_matters",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "different_section_not_joined",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "different_revision_not_joined",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "neighbor_character_loss_not_joined",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "anchor_character_loss_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "multiple_compatible_neighbors_fail_closed",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "ambiguous_anchor_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "non_table_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "sequential_first_overflow_keeps_anchor",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "atomic_window_overflow_empty",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "exact_fit",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "fit_does_not_mutate_groups",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "selected_ids_deduplicated",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "prior_partial_not_rolled_back",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "base_budget_rejected",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "notes_retained",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "next_start_closes",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "last_not_assumed_complete",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "adjacent_continuation",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "gap_not_joined",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "header_change_not_joined",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "leading_orphan_retained",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "index_and_bit_ids",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "mentioned_parameter_not_start",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "multiple_tables_fail_closed",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "null_column_header_preserved_not_rewritten",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "real_schema_null_cells_preserved",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "exact_offsets",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "header_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "complete_entry_for_note",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "open_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "invalid_offsets_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "mixed_safe_unsafe_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "multiple_entries_atomic",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "input_entry_unmodified",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "new_identity_no_whole_flag",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "closed_entry_full_rows",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "table_contains_untranscribed_image_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "page_has_untranscribed_images_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "missing_chars_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "other_section_fallback",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "image_allowed_only_with_full_parents",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "two_parent_members",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "continuation_to_identity",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "header_plus_body_allowed",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "header_only_no_guess",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "ambiguous_crosspage_no_join",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "source_order_from_continuation_hit",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "whole_source_and_flags_preserved",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "atomic_overflow_no_partial_new_member",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "atomic_exact_fit",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "previous_partial_not_misrepresented",
+    "passed": true,
+    "synthetic": true
+  },
+  {
+    "name": "missing_chars_not_relaxed_for_images",
+    "passed": true,
+    "synthetic": true
+  }
+]

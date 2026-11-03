@@ -1,0 +1,146 @@
+[
+  {
+    "question": "V20-Q01",
+    "identical_request": true,
+    "baseline_pass": false,
+    "structure_pass": false
+  },
+  {
+    "question": "V20-Q02",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q03",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q04",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q05",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q06",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q07",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q08",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q09",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q10",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q11",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": false
+  },
+  {
+    "question": "V20-Q12",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q13",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q14",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q15",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q16",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q17",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q18",
+    "identical_request": true,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q19",
+    "identical_request": true,
+    "baseline_pass": false,
+    "structure_pass": false
+  },
+  {
+    "question": "V20-Q20",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q21",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q22",
+    "identical_request": false,
+    "baseline_pass": false,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q23",
+    "identical_request": false,
+    "baseline_pass": true,
+    "structure_pass": true
+  },
+  {
+    "question": "V20-Q24",
+    "identical_request": false,
+    "baseline_pass": false,
+    "structure_pass": false
+  }
+]

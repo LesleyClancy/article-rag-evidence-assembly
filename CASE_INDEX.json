@@ -1,0 +1,71 @@
+{
+  "scope": "Illustrative identifier-only case index; complete included cohorts remain in data files.",
+  "cases": [
+    {
+      "question": "V20-Q24",
+      "rating_file": "data/ratings.json",
+      "rating_array_indices_zero_based": [
+        185,
+        186,
+        187,
+        188
+      ],
+      "identity_file": "data/answer_identity_and_usage.json",
+      "identity_array_indices_zero_based": [],
+      "delivery_lookup": "Filter data/v20_delivery.json by question; V90 full offline traces are outside this package."
+    },
+    {
+      "question": "V20-Q04",
+      "rating_file": "data/ratings.json",
+      "rating_array_indices_zero_based": [
+        145,
+        146
+      ],
+      "identity_file": "data/answer_identity_and_usage.json",
+      "identity_array_indices_zero_based": [],
+      "delivery_lookup": "Filter data/v20_delivery.json by question; V90 full offline traces are outside this package."
+    },
+    {
+      "question": "V20-CF02",
+      "rating_file": "data/ratings.json",
+      "rating_array_indices_zero_based": [
+        211,
+        212,
+        227,
+        228,
+        229,
+        239,
+        240,
+        241
+      ],
+      "identity_file": "data/answer_identity_and_usage.json",
+      "identity_array_indices_zero_based": [
+        12,
+        13,
+        14,
+        24,
+        25,
+        26
+      ],
+      "delivery_lookup": "Filter data/v20_delivery.json by question; V90 full offline traces are outside this package."
+    },
+    {
+      "question": "V90-N01",
+      "rating_file": "data/ratings.json",
+      "rating_array_indices_zero_based": [
+        269,
+        270,
+        271,
+        272
+      ],
+      "identity_file": "data/answer_identity_and_usage.json",
+      "identity_array_indices_zero_based": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "delivery_lookup": "Filter data/v20_delivery.json by question; V90 full offline traces are outside this package."
+    }
+  ]
+}
